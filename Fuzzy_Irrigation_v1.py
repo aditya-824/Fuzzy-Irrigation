@@ -16,8 +16,8 @@ Pipeline
 
 Usage:
   pip install numpy pandas requests scipy
-  python fuzzy_irrigation_india.py --lat 30.90 --lon 75.85 --crop wheat
-  python fuzzy_irrigation_india.py --offline          # synthetic data, no internet
+  python Fuzzy_Irrigation_v1.py --lat 30.90 --lon 75.85 --crop wheat
+  python Fuzzy_Irrigation_v1.py --offline          # synthetic data, no internet
 """
 import argparse
 import numpy as np
